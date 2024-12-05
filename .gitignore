@@ -1,0 +1,17 @@
+articles/
+assets/
+disc/
+exam/
+
+.DS_Store
+.idea
+__pycache__
+
+.ok_history
+.ok_storage.db
+ok
+*.ok
+
+*.html
+
+*.pdf
